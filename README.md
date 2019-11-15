@@ -14,9 +14,11 @@ Talha Sultan (MuhammadTalha.Sultan@georgebrown.ca)
 ---
 
 ### Course Outline [link](https://docs.google.com/document/d/1lGIRS3KBx4Oj_T9QL_AZdJC5wmC7GRQT8C0CDIdLisA/edit?usp=sharing) 
-(Updated 10-01-19)
+(Updated 11-06-19)
 
 ---
+
+### Coure Project [link](https://drive.google.com/file/d/18de8vQaykffl5Q1TGFLewAzqqNxizzyj/view?usp=sharing)
 
 ### Useful Links
 [JavaScript References](developer.mozilla.org)
@@ -51,11 +53,11 @@ Talha Sultan (MuhammadTalha.Sultan@georgebrown.ca)
 [6 Lecture](https://drive.google.com/open?id=1Tvcccz4G6ge2ozh9NYjGp8WE8_WVhkU7)
 [6 Demo](https://drive.google.com/open?id=1wjmQUwQa-5wX33EMedZ2x7GiwHfFQk4M)
 
-[7 Lecture]
+[7 Lecture](https://drive.google.com/file/d/14awbBdQIm92MLr23ywHHKER9919MGMxK/view?usp=sharing)
 
-[8 Lecture]
+[8 Lecture](https://drive.google.com/file/d/1OwfAXyUfLYXBnaZlaBUEwsOVuTN3KQYm/view?usp=sharing)
 
-[9 Lecture]
+[9 Lecture](https://drive.google.com/file/d/17ySbGGKUX7DGG_Pri2ZQJavWAjqeJden/view?usp=sharing)
 
 [10 Lecture]
 
@@ -126,9 +128,24 @@ Task 2: [Template Form Tutorial](https://angular.io/guide/forms)
 SUBMIT your work to your GitHub account
    
 #### Week 7 lab - Oct, 2019   
-#### Week 8 lab - Oct, 2019   
+General lab to catchup on previous labs.   
+
+#### Week 8 lab - Oct - start Nov, 2019  
+
+Download: [MongoDB](https://www.mongodb.com/download-center/community?jmp=docs)   
+Download: [Postman](https://www.getpostman.com/)   
+
+Task 1: [Build CRUD App with Angular](https://www.positronx.io/angular-8-mean-stack-tutorial-build-crud-angular-material/)   
+Task 2: [Angular Feature Module](https://angular.io/guide/feature-modules)   
+   
 #### Week 9 lab - Nov, 2019   
+
+Task 1 (continue from last week): [Build CRUD App with Angular](https://www.positronx.io/angular-8-mean-stack-tutorial-build-crud-angular-material/)   
+
+
 #### Week 10 lab - Nov, 2019   
+Task: [Building A REST API With MongoDB, Mongoose, And Node.js](https://www.thepolyglotdeveloper.com/2019/02/building-rest-api-mongodb-mongoose-nodejs/)   
+
 #### Week 11 lab - Nov, 2019   
 #### Week 12 lab - Nov, 2019   
 #### Week 13 lab - Dec, 2019   
